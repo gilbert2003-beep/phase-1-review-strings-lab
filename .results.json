@@ -5,9 +5,9 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2023-06-13T09:54:50.538Z",
-    "end": "2023-06-13T09:54:52.366Z",
-    "duration": 1828
+    "start": "2023-06-17T10:14:13.356Z",
+    "end": "2023-06-17T10:14:14.843Z",
+    "duration": 1487
   },
   "tests": [
     {
@@ -20,14 +20,14 @@
     {
       "title": "contains \"Welcome to Flatbook, \"",
       "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
-      "duration": 19,
+      "duration": 5,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js welcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 15,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -94,14 +94,14 @@
     {
       "title": "contains \"Welcome to Flatbook, \"",
       "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
-      "duration": 19,
+      "duration": 5,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js welcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 15,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
